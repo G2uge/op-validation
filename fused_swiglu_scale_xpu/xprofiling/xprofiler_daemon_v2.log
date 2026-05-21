@@ -1,0 +1,19 @@
+[XPROFILER][INFO] version: 2.0.2.0, commit: d26155e, mode: daemon
+[XPROFILER][INFO] please set environment variables before starting your program:
+[XPROFILER][INFO] - XPU_ENABLE_PROFILER_TRACING=1
+[XPROFILER][INFO] - XPU_TRACING_OUTPUT_NAME=/root/paddlejob/Gruge/private-repos/op-validation/fused_swiglu_scale_xpu/xprofiling/xprofiler.sock
+[XPROFILER][INFO] start writing to file, size: 2.22 KB
+[XPROFILER][INFO] progress: [[XPROFILER][INFO] progress: [==================================================] 100% (2270/2270 bytes)
+[XPROFILER][INFO] xprofiler.settings.json saved.
+[XPROFILER][INFO] connect with new profiler, fd 32
+[XPROFILER][INFO] xprofiler start profiling
+[XPROFILER][INFO] start tracing data capture from process
+[XPROFILER][INFO] start tracing data capture from dev0
+[XPROFILER][INFO] xprofiler stop profiling
+[XPROFILER][INFO] stop tracing data capture from dev0
+[XPROFILER][INFO] stop tracing data capture from process
+[XPROFILER][INFO] start processing trace data, this may take a few minutes
+[XPROFILER][INFO] profiler connection 32 closed.
+[XPROFILER][INFO] start writing to file, size: 11.80 MB
+[XPROFILER][INFO] progress: [[XPROFILER][INFO] progress: [==================================================] 100% (12369336/12369336 bytes)
+[XPROFILER][INFO] /root/paddlejob/Gruge/private-repos/op-validation/fused_swiglu_scale_xpu/xprofiling/profiles/native_and_best_20260521_182447 saved.
